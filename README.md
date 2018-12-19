@@ -1,2 +1,2 @@
 # School-Program
-Keep track of the courses in your school and the students enrolled
+You can create courses, and add students to them. More to come. 
